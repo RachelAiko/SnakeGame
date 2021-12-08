@@ -15,12 +15,11 @@ Snake Game that was created over the course of my programming methodology class.
 ![A demonstrative GIF of the application]()
 
 ## Documentation
-[ProductionLineTracker JavaDocs]()
+
 
 ## Diagrams
 The project's class diagram:
 
-![A diagram of the project's classes]() 
 
 ## Built With
 
